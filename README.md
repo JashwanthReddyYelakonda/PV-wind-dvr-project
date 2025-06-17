@@ -4,13 +4,13 @@ This project presents a **MATLAB/Simulink-based simulation** of a **grid-connect
 
 ---
 
-##  Objective
+## Objective
 
 To design and simulate a hybrid **PV-Wind energy system** integrated with a **battery** and **Superconducting Magnetic Energy Storage (SMES)** unit, and apply a **Fuzzy Logic Controller** to control the DVR for effective voltage sag compensation.
 
 ---
 
-##  Key Components
+## Key Components
 
 - **Hybrid PV-Wind Power Source**
 - **Dynamic Voltage Restorer (DVR)**
@@ -20,7 +20,7 @@ To design and simulate a hybrid **PV-Wind energy system** integrated with a **ba
 
 ---
 
-## 🛠 Files Included
+## Files Included
 
 | File Name                 | Description                                 |
 |---------------------------|---------------------------------------------|
@@ -32,14 +32,14 @@ To design and simulate a hybrid **PV-Wind energy system** integrated with a **ba
 
 ---
 
-## 🖥 Tools Used
+## Tools Used
 
 - **MATLAB Simulink**
 - **Fuzzy Logic Toolbox**
 
 ---
 
-##  Features & Highlights
+## Features & Highlights
 
 - Simulates **voltage sags** under different loading and fault conditions.
 - Demonstrates the use of **soft computing (Fuzzy Logic)** in real-time power system control.
@@ -47,7 +47,7 @@ To design and simulate a hybrid **PV-Wind energy system** integrated with a **ba
 
 ---
 
-##  Future Scope
+## Future Scope
 
 - Extend fuzzy controller to include **neuro-fuzzy (ANFIS)** for adaptive control.
 - Add real hardware-in-the-loop (HIL) validation using microcontrollers.
@@ -55,7 +55,7 @@ To design and simulate a hybrid **PV-Wind energy system** integrated with a **ba
 
 ---
 
-##  Contact
+## Contact
 
 For questions or collaboration:
 **Jashwanth Reddy Yelakonda**  
