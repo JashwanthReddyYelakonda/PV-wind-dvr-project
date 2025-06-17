@@ -26,6 +26,7 @@ To design and simulate a hybrid **PV-Wind energy system** integrated with a **ba
 |---------------------------|---------------------------------------------|
 | `simulation-model.mdl`    | Main Simulink model of the hybrid system    |
 | `fuzzy-controller.fis`    | Fuzzy Inference System for DVR control      |
+| `Project-report.pdf`      | Report for the project                      |
 
 >  Report and presentation files are not included in this repository.
 
